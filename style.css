@@ -245,3 +245,11 @@
 .social_img {
       width: 40px;
 }
+
+.rights {
+      width: 100%;
+      text-align: center;
+      padding: 10px;
+
+      color: var(--orange01);
+}
